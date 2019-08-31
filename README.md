@@ -1,5 +1,6 @@
 # doc_shadow_removal
 This work aims to remove the shadows exiting in documents, and generate a clear and easy-to-read document. 
+
 If you try to use this code, please cite our paper 
 "An Effective Background Estimation Method For Shadows Removal Of Document Images"  which has been accepted by ICIP2019.
 
