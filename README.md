@@ -1,8 +1,10 @@
 # doc_shadow_removal
 This work aims to remove the shadows exiting in documents, and generate a clear and easy-to-read document. 
 
+The test dataset comes from http://cvc.ucsb.edu/graphics/Papers/ACCV2016_DocShadow/.
 
 Thanks the work from Derek Bradley, and the implementation https://github.com/phryniszak/AdaptiveIntegralThresholding.  
+
 We really thank Steve Bako (University of Berkeley, Santa Barbara), V. Shah (IIIT Hyderabad),  Xiaoming Yu (Peking University) for interesting discussions and their code sharing.
 
 
